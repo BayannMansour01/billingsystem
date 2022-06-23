@@ -1,0 +1,6 @@
+package com.example.billingsystem
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
